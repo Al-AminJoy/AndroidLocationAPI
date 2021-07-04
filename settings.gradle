@@ -1,0 +1,2 @@
+rootProject.name = "AndroidLocationAPI"
+include ':app'
